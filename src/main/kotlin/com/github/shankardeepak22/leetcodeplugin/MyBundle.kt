@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.shankardeepak22.leetcodeplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
